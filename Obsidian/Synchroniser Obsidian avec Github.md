@@ -24,7 +24,7 @@
   ```
   https://<collez votre token ici>@github.com/<votre pseudo github>/<nom du repo>.git
   ```
-  
+  ![[tuto7.jpg]]
 - Maintenant dans cette même barre vous devriez voir "Enter directory for clone". Tapez le nom du dossier que vous avez crée a la racine d'Obsidian
   - Dans "specify depth of clone", ne tapez rien, appuyez juste sur Entrée
   - Vous devriez avoir un message qui vous demande de redémarrer
