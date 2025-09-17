@@ -10,7 +10,7 @@
   ![[tuto3.jpg]]
   -> Generate new token (classic)
   -> mettre une description, choisir **No expiration**, et cliquer sur **repo**
-  ![[tuto4 1.jpg]]
+  ![[tuto4.jpg]]
   -> Generate token, et dans la fenêtre suivante clique sur les deux carrés bleu pour copier le token dans le presse papier
   -> Vous pouvez enregistrer ce token dans un fichier texte si vous voulez
 - Dans Obsidian, allez dans les options, **modules complémentaires** et cliquez sur parcourir a droite
