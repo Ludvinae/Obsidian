@@ -11,3 +11,12 @@ On peut configurer sa VM avec plusieurs modes:
   ![[virtualbox-schema-reseau-nat.png]]
 - **Pont**: la VM fait partie du réseau local, comme si c'était une machine physique. Elle peut donc accéder a internet et être accéder depuis l'exterieur.
 - **Hôte**: le réseau de la VM est isolé, il peut uniquement accéder a l'hôte physique.
+  ![[virtualbox-schema-host-only.png]]
+- **Interne**: la VM est complètement isolé sur un réseau uniquement accessible des autres VM sur le même hôte physique. Pas d'accès au serveur DHCP de VirtualBox, donc on doit configurer les addresses IP des VM à la main.
+  ![[virtualbox-schema-reseau-interne.png]]
+- **Cloud Network**: accès au Cloud d'Oracle (requiert un abonnement spécifique).
+- **Generic driver**: accès à des fonctions spécifiques de VirtualBox?
+- **Aucune connexion**: comme son nom l'indique, pas du tout de carte réseau virtuelle.
+
+### Synthèse
+![[virtualbox-synthese-modes-reseau.png]]
