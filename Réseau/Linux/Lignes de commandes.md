@@ -1,4 +1,4 @@
-[[Linux]] 
+[[Notes/Réseau/Linux/Linux]] 
 
 ### 📂 Navigation dans les fichiers et dossiers 
 

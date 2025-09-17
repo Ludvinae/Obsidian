@@ -1,4 +1,4 @@
-[[Obsidian/Obsidian]]
+[[Obsidian]]
 
 - Aller sur Github, et créer un nouveau **repository** (public ou privé, c'est vous qui voyez)
   ![[tuto1.jpg]]
