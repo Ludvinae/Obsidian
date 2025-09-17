@@ -22,4 +22,5 @@ On peut configurer sa VM avec plusieurs modes:
 - **Aucune connexion**: comme son nom l'indique, pas du tout de carte réseau virtuelle.
 
 ### Synthèse
+
 ![[virtualbox-synthese-modes-reseau.png]]
