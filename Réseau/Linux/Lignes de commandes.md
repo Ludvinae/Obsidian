@@ -1,4 +1,11 @@
-[[Notes/Réseau/Linux/Linux]] 
+[[Linux]] 
+
+Tout système peut fonctionner grâce aux lignes de commande. Une commande est un programme qui permet de faire certaines actions. Après le prompt (généralement un #), on tape le nom de la commande, suivi d'un espace et d'options (qui commencent toujours avec un tiret). On peut aussi entrer éventuellement des paramètres après les options.
+
+```
+# nom_commande [-options] [paramètres]
+```
+
 
 ### 📂 Navigation dans les fichiers et dossiers 
 
