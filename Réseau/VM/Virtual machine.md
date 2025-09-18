@@ -5,7 +5,7 @@ On peut utiliser deux logiciels pour la virtualisation:
 - **Oracle [[Virtual Box]]**
 - **VMware Workstation**: plus complexe, mais plus complet
   
-![[virtual_machines-h.png]]
+![[Remote/Réseau/VM/Images/virtual_machines-h.png]]
 
 
 On suit la structure 3 tiers:

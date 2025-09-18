@@ -68,5 +68,5 @@ nano fichier.txt         # Éditeur simple en ligne de commande 
 vim fichier.txt          # Éditeur avancé (plus difficile à prendre en main) 
 
 ```ad-note
-La commande sudo permet d’exécuter une ligne de commande en tant que SuperUser sans être connecté sur le profil root.
+La commande sudo (SuperUser do) permet d’exécuter une ligne de commande en tant que SuperUser sans être connecté sur le profil root.
 ```
