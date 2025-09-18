@@ -6,6 +6,10 @@ Tout système peut fonctionner grâce aux lignes de commande. Une commande est u
 # nom_commande [-options] [paramètres]
 ```
 
+On peut créer plusieurs dossiers dans une seule ligne de commande en les espaçant a la suite les uns des autres. On peut aussi créer des sous-dossiers en mettant le chemin:
+ex : mkdir photo photo/image photo/image/noel
+
+tree : commande pour afficher l'arborescence du dossier de travail (a installer d'abord avec apt install tree)
 
 ### 📂 Navigation dans les fichiers et dossiers 
 
