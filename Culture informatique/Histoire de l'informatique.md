@@ -7,7 +7,7 @@ On divise généralement l'informatique en deux parties : le Hardware et le Soft
 
 
 Denis Ritchie, inventeur du langage C. 
-Ken Thompson concepteur de l’OS UNIX, basé sur C. 
+Ken Thompson concepteur de l’OS [[UNIX]], basé sur C. 
 ## Les logiciels.
 
 Les premiers outils logiciels développés sont les traitements de texte et les tableurs, afin de remplacer les machines à écrire. Quelques exemples:
