@@ -1,16 +1,17 @@
 [[Algorithme]]
 
-4 types de données primitives en Python
+5 types de données primitives en Python
 - String (**str**)
 - Integer (**int**)
 - Float (**float**)
 - Boolean (*bool*)
+- None
 
 On peut afficher du texte dans le terminal avec la commande **print**. On peut soit concaténer les éléments a l'intérieur du print a l'aide de **+**, soit utiliser un **f-string** et dans ce cas on met les noms de variables entre curly bracket {}.
 	print("blabla" + var)
 	print(f"blabla {var}")
 
-On initialise un **tableau** (ou liste), un type de [[Structure de données]], avec des crochets []. On rajoute des éléments individuels a cette liste avec la méthode .append().
-	liste = []
+
+
 
 

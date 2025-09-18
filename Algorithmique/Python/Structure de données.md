@@ -1,3 +1,36 @@
 [[Python]]
 
-- **Tableau**
+- **Tableau** (ou liste)
+- **Tuple**
+- **Dictionnaire**
+- **Set**
+
+## Listes
+
+On initialise un **tableau** (ou liste), un type de [[Structure de données]], avec des crochets []. On rajoute des éléments individuels a cette liste avec la méthode .append(). 
+	liste = []
+On accède aux éléments de la liste grâce à son index (liste[0] pour le premier élément, liste[-1] pour le dernier).
+	liste[1:-1] pour afficher les valeurs entre le second index et l'avant-dernier.
+	liste[:3] pour afficher les trois premières valeurs
+
+Pour modifier une liste, on peut utiliser plusieurs méthodes:
+- **liste.append(valeur)**: ajouter la valeur entre parenthèse a la fin de la liste
+- **liste.insert(index, valeur)**: ajoute la valeur a la position d'index, en poussant les index des valeurs suivantes
+- **liste.remove(valeur)**: enlève tous les éléments du tableau avec la valeur donnée
+- **liste.pop(index)**: enlève l'élément a l'index donné, ou le dernier élément de la liste si pas précisé
+- **liste.clear()** : vide la liste
+- **liste.reverse()**: inverse tous les éléments de la liste
+- **liste.sort()**: trie les éléments par ordre alphabétique (pour trier par ordre inverse, on ajoute "reverse=True")
+
+Pour accéder a tous les éléments d'une liste, on utilise généralement un boucle For.
+
+
+## Sets
+
+Chaque élément dans un set est **unique**, et n'as pas de **position**. On utilise souvent les sets pour vérifier rapidement si un élément est présent dedans.
+	sac = {"element1", "element2"}
+
+Quelques méthodes pour modifier un set:
+- **sac.add("element3")**: ajouter l'élément au set si il n'existe pas déjà dedans.
+- **sac.remove("element")**: enlève l'élément du set.
+- 
