@@ -8,7 +8,7 @@
 
 ## Installation
 
-- [ ] Serveur LAMP
+- [x] Serveur LAMP
 
 
 ## Tutos
