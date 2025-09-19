@@ -16,6 +16,20 @@ Type de données:
 - Object ( {nom : "Alice"} )
 - Array 
 
+**Switch**:
+	let jour = "lundi";
+
+	switch (jour) {
+	    case "lundi":
+	        console.log("Début de semaine");
+	        break;
+	    case "vendredi":
+	        console.log("Fin de semaine");
+	        break;
+	    default:
+	        console.log("Jour normal");
+	}
+
 Les boucles:
 - **for**:
 	for (let i = 1; i <= 5; i++) {
@@ -51,3 +65,27 @@ Les boucles:
 	} finally {
 	    console.log("Bloc finally exécuté quoi qu'il arrive.");
 	}
+
+
+### Fonctions
+
+- Les **paramètres** sont définis lors de la déclaration.
+- Les **arguments** sont passés lors de l’appel.
+
+Fonctions **déclarées**:
+	function saluer(nom) {
+    console.log("Bonjour " + nom + " !");
+	}
+	saluer("Alice"); // Bonjour Alice !
+
+Fonctions **expression**:
+	const direBonjour = function(nom) {
+    console.log("Salut " + nom + " !");
+	};
+	direBonjour("Bob"); // Salut Bob !
+
+Fonctions **fléchées**:
+	const addition = (a, b) => a + b;
+	console.log(addition(5, 3)); // 8
+	const afficherNom = nom => console.log(nom);
+	afficherNom("Charlie"); // Charlie
