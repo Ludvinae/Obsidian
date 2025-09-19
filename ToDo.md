@@ -3,7 +3,7 @@
 
 - [ ] Commandes Git
 - [ ] Concepts Git (origine, remote, etc...)
-- [ ] DOM
+- [x] DOM
 
 
 ## Installation
