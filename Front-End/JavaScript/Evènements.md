@@ -4,7 +4,7 @@ Au lieu d’utiliser l’attribut `onclick` dans le HTML, il est recommandé d
 - Le premier paramètre est le **type d’événement** (`click`, `input`, `mouseover`…).
 - Le second paramètre est la **fonction** à exécuter.
 
-Types d'évenements:
+Types d'évènements:
 - `click`|Clic sur un élément|
 - `dblclick`|Double clic|
 - `input`|Saisie dans un champ input|
