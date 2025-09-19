@@ -18,3 +18,5 @@ Les différentes phases du cycle sont:
 Exemple de stack d'outil en environnement Java:
 
 ![[DevOps-Tools.png]]
+
+Il existe de nombreuses certifications sur des plateformes spécifiques telles qu'Azur ou AWs, ou avec des outils comme Docker.
