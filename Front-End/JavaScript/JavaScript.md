@@ -13,8 +13,8 @@ Type de données:
 - String
 - Null
 - Undefined
-- Object ( {nom : "Alice"} )
-- Array 
+- Object (dictionnaire) 
+- Array (liste)
 
 **Switch**:
 	let jour = "lundi";
