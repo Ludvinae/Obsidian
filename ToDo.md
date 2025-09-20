@@ -1,7 +1,3 @@
----
-tags:
-aliases:
----
 
 ## Notes
 
