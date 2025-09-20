@@ -1,7 +1,7 @@
 [[Wordpress]]
 
 La première partie pour faire un site : faire une [[Maquette]].
-Ensuite on défini la [[Chartre graphique]]. 
+Ensuite on défini la [[Charte graphique]]. 
 
 
 

@@ -1,2 +1,2 @@
-[[Chartre graphique]]
+[[Charte graphique]]
 

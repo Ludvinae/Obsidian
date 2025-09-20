@@ -1,4 +1,4 @@
-[[Chartre graphique]]
+[[Charte graphique]]
 [[Couleurs]]
 
 La couleur  orange, c'est la couleur de la **communication**.
