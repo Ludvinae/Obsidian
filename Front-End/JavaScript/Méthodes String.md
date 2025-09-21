@@ -15,3 +15,5 @@ On peut utiliser différentes méthodes pour interagir avec une chaîne de carac
 - **`variable.replaceAll("charA", "charB")`**: remplace toutes les occurrences de `"charA"` par `"charB"`
 - **`variable.padStart(x, "character")`**: ajouter `"character"` au début du String pour atteindre une taille x
 - **`variable.padEnd(x, "character")`**: ajouter `"character"` à la fin du String pour atteindre une taille x
+- **`variable.slice(indexDepart, indexFin)`**: crée un nouveau String avec la partie qui commence à `indexDepart` et fini à l'index précèdent `indexFin`; on peut omettre l'index de fin.
+- 
