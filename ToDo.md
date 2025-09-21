@@ -20,6 +20,7 @@
 ## Pratique
 
 - [ ] Refonte Portfolio
+- [ ] Mise à jour LinkedIn
 
 
 ## Questions
