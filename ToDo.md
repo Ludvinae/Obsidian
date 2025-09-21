@@ -17,6 +17,11 @@
 - [ ] PHP
 
 
+## Exercices
+
+- [ ] Caisse enregistreuse ( JS )
+
+
 ## Pratique
 
 - [ ] Refonte Portfolio
