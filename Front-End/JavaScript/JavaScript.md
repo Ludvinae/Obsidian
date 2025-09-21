@@ -54,6 +54,13 @@ switch (jour) {
 Dans l'exemple précèdent, si l'on inclus pas de *break* dans chaque cas, on afficherait les trois messages si la variable jour vaut "lundi". 
 ```
 
+#### Opérateurs logiques
+
+Pour combiner plusieurs conditions, on peut utiliser les opérateurs logiques:
+- x **&&** y : x *et* y
+- x **||** y : x *ou* y
+- **!** x : *not* x
+- (x **||** y) **&&** **!**(x **&&** y) : ou exclusif (x ou y mais pas les deux en même temps)
 ## Boucles:
 
 - **for**:
