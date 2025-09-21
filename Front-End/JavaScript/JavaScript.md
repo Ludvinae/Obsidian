@@ -31,7 +31,7 @@ On peut aussi utiliser le **ternary operator** pour raccourcir la syntaxe lorsqu
 	let variable = condition ? codeSiVrai : codeSiFaux;
 
 **Switch**:
-Corresponds au *match* de Python. Contrairement à Python, on doit ajouter un *break* d
+Corresponds au *match* de Python. Contrairement à Python, on doit ajouter un *break* dans chaque *case* si l'on ne veux pas exécuter le code suivant le cas validé.
 
 	let jour = "lundi";
 
@@ -45,6 +45,10 @@ Corresponds au *match* de Python. Contrairement à Python, on doit ajouter un *b
 	    default:
 	        console.log("Jour normal");
 	}
+
+```ad-note
+Dans l'exemple précèdent, si l'on inclus pas de *break* dans chaque cas, on afficherait les trois messages si la variable jour vaut "lundi". 
+```
 
 ## Boucles:
 
