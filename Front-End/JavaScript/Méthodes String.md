@@ -1,6 +1,7 @@
 [[JavaScript]]
 
 On peut utiliser différentes méthodes pour interagir avec une chaîne de caractères:
+
 - **`variable.charAt(index)`**: renvoie le caractère à la position d'index choisie
 - **`variable.indexOf("character")`**: renvoie l'index de la première occurrence de `"character"`
 - **`variable.lastIndexOf("character")`**: renvoie l'index de la dernière occurrence de `"character"`
@@ -13,4 +14,4 @@ On peut utiliser différentes méthodes pour interagir avec une chaîne de carac
 - **`variable.includes("character")`**: renvoie *`true`* si le String inclue `"character"`
 - **`variable.replaceAll("charA", "charB")`**: remplace toutes les occurrences de `"charA"` par `"charB"`
 - **`variable.padStart(x, "character")`**: ajouter `"character"` au début du String pour atteindre une taille x
-- **`variable.padEnd(x, "character")`**: ajouter `"character"` à la  du String pour atteindre une taille x
+- **`variable.padEnd(x, "character")`**: ajouter `"character"` à la fin du String pour atteindre une taille x

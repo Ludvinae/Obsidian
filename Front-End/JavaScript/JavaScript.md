@@ -20,12 +20,14 @@ On peut ajouter du Javascript directement dans le html en l'insérant directemen
 ## Conditions:
 
 On peut écrire une condition avec **if...else**:
-	*if(condition)* {
-		exécute ce code si la condition est vraie
-	}
-	*else* {
-		sinon exécute ce code
-	}
+```
+if(condition) {
+	exécute ce code si la condition est vraie
+}
+else {
+	sinon exécute ce code
+}
+```
 
 On peut aussi utiliser le **ternary operator** pour raccourcir la syntaxe lorsque l'on veux assigner une condition à une variable:
 	let variable = condition ? codeSiVrai : codeSiFaux;
@@ -33,18 +35,20 @@ On peut aussi utiliser le **ternary operator** pour raccourcir la syntaxe lorsqu
 **Switch**:
 Corresponds au *match* de Python. Contrairement à Python, on doit ajouter un *break* dans chaque *case* si l'on ne veux pas exécuter le code suivant le cas validé.
 
-	let jour = "lundi";
+```
+let jour = "lundi";
 
-	switch (jour) {
-	    case "lundi":
-	        console.log("Début de semaine");
-	        break;
-	    case "vendredi":
-	        console.log("Fin de semaine");
-	        break;
-	    default:
-	        console.log("Jour normal");
-	}
+switch (jour) {
+	case "lundi":
+		console.log("Début de semaine");
+		break;
+	case "vendredi":
+		console.log("Fin de semaine");
+		break;
+	default:
+		console.log("Jour normal");
+}
+```
 
 ```ad-note
 Dans l'exemple précèdent, si l'on inclus pas de *break* dans chaque cas, on afficherait les trois messages si la variable jour vaut "lundi". 
@@ -53,40 +57,53 @@ Dans l'exemple précèdent, si l'on inclus pas de *break* dans chaque cas, on af
 ## Boucles:
 
 - **for**:
-	for (let i = 1; i <= 5; i++) {
-	 console.log( "compteur: " + i);
-	}
+```
+for (let i = 1; i <= 5; i++) {
+	console.log( "compteur: " + i);
+}
+```
+
 - **while**
-	let i = 1;
-	while (i <= 5) {
-	    console.log("Compteur : " + i);
-	    i++;
-	}
+```
+let i = 1;
+while (i <= 5) {
+	console.log("Compteur : " + i);
+	i++;
+}
+```
+
 - **do ... while** 
-	let i = 1;
-	do {
-     console.log("Compteur : " + i);
-     i++;
-	} while (i <= 5);
+```
+let i = 1;
+do {
+	console.log("Compteur : " + i);
+	i++;
+} while (i <= 5);
+```
+
 - **for ... of**
-	let fruits = ["pomme", "banane", "cerise"];
-	for (let fruit of fruits) {
-	    console.log(fruit);
-	}
+```
+let fruits = ["pomme", "banane", "cerise"];
+for (let fruit of fruits) {
+	console.log(fruit);
+}
+```
 
 ## Gestion des exceptions:
 
-	try {
-	    let result = 10 / 0;
-	    if (!isFinite(result)) {
-	        throw "Division par zéro impossible !";
-	    }
-	    console.log(result);
-	} catch (error) {
-	    console.log("Erreur : " + error);
-	} finally {
-	    console.log("Bloc finally exécuté quoi qu'il arrive.");
+```
+try {
+	let result = 10 / 0;
+	if (!isFinite(result)) {
+		throw "Division par zéro impossible !";
 	}
+	console.log(result);
+} catch (error) {
+	console.log("Erreur : " + error);
+} finally {
+	console.log("Bloc finally exécuté quoi qu'il arrive.");
+}
+```
 
 
 ## Fonctions
@@ -95,21 +112,27 @@ Dans l'exemple précèdent, si l'on inclus pas de *break* dans chaque cas, on af
 - Les **arguments** sont passés lors de l’appel.
 
 Fonctions **déclarées**:
-	function saluer(nom) {
-    console.log("Bonjour " + nom + " !");
-	}
-	saluer("Alice"); // Bonjour Alice !
+```
+function saluer(nom) {
+console.log("Bonjour " + nom + " !");
+}
+saluer("Alice"); // Bonjour Alice !
+```
 
 Fonctions **expression**:
-	const direBonjour = function(nom) {
-    console.log("Salut " + nom + " !");
-	};
-	direBonjour("Bob"); // Salut Bob !
+```
+const direBonjour = function(nom) {
+console.log("Salut " + nom + " !");
+};
+direBonjour("Bob"); // Salut Bob !
+```
 
 Fonctions **fléchées**:
-	const addition = (a, b) => a + b;
-	console.log(addition(5, 3)); // 8
-	const afficherNom = nom => console.log(nom);
-	afficherNom("Charlie"); // Charlie
+```
+const addition = (a, b) => a + b;
+console.log(addition(5, 3)); // 8
+const afficherNom = nom => console.log(nom);
+afficherNom("Charlie"); // Charlie
+```
 
 
