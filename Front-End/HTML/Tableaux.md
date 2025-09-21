@@ -13,4 +13,4 @@ On peut fusionner les cases d’un tableau pour avoir un nombre de colonnes ou d
 On peut aussi imbriquer un second tableau a l’intérieur d’une cellule d’un tableau. 
 
 [Exercice des drapeaux](https://www.formation.maxys.fr/cours/html/ressources/)
-[[Flag.base]]
+[[fichiers.base]]

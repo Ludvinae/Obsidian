@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ext
+      - file.ctime
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.ext
+        direction: DESC
+  - type: table
+    name: View
