@@ -60,7 +60,8 @@ Pour combiner plusieurs conditions, on peut utiliser les opérateurs logiques:
 - x **&&** y : x *et* y
 - x **||** y : x *ou* y
 - **!** x : *not* x
-- (x **||** y) **&&** **!**(x **&&** y) : ou exclusif (x ou y mais pas les deux en même temps)
+- (x **||** y) **&&** **!**(x **&&** y) : ou exclusif (x ou y, mais pas les deux en même temps)
+  
 ## Boucles:
 
 - **for**:
@@ -95,6 +96,7 @@ for (let fruit of fruits) {
 	console.log(fruit);
 }
 ```
+
 
 ## Gestion des exceptions:
 
@@ -143,3 +145,6 @@ afficherNom("Charlie"); // Charlie
 ```
 
 
+## Structures de données
+
+- **Array** : 
