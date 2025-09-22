@@ -147,4 +147,33 @@ afficherNom("Charlie"); // Charlie
 
 ## Structures de données
 
-- **Array** : 
+#### Arrays
+
+ Liste d'éléments qui peuvent être de type différents (mais ce n'est pas recommandé pour éviter les problèmes quand on traite ces données plus tard dans le programme)
+  `let variable = ["element1", "element2", "element3"]`;
+  
+  On peut aussi faire une matrice avec un liste d'arrays:
+```
+	let variable = [[1, 2, 3]
+					[4, 5, 6]
+					[7, 8, 9]];
+```
+
+On peut utiliser un **spread operator** pour traiter les éléments d'un array de façon séparé sans passer par une boucle:
+
+```
+let variable = [1, 2, 3, 4, 5];
+let maximum = Math.max(...variable);
+```
+(fonctionne aussi pour une chaîne de caractères)
+
+**Rest parameters** fait l'inverse: on regroupe différents éléments à l'intérieur d'un array. Assigné à une fonction, on peut passer n'importe quel nombre d'arguments quand on l'appelle.
+
+```
+function regroupe(...liste) {
+console.log(liste)}
+let element1 = "abc"
+let element2 = "def"
+let element3 = "ghi"
+regroupe(element1, element2, element3)
+```
