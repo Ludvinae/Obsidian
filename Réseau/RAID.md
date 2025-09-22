@@ -6,7 +6,7 @@ Types de raid:
 - **mirroring** (raid 1): haute disponibilité, permet de contrer les incidents, si un disque lâche, on a encore les données sur le second. 
 - **striping** (raid 0): place une partie des données sur chaque disque afin de gagner en vitesse de lecture. Si un des disques ne fonctionne plus, toutes les données sont perdues.
 - **striping & parité distribuée** (raid 5): comme le raid 0, mais on ajoute un bit de parité pour pouvoir corriger des données manquantes, ce qui permet de parer à une panne d'un des disques. Requiers au moins 3 disques durs.
-
+- Avec le RAID 6, on peut se permettre de perdre deux disques.
 
 Les raid 4 et supérieurs se servent de la **parité** pour assurer une correction d'erreur.
 On fixe la parité a *pair* ou *impair*, et on code le 8ème bit de chaque octet de données pour avoir un total de 1 dans l'octet a la parité choisie.
