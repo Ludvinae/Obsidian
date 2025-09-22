@@ -6,3 +6,4 @@ date: 2025-09-15
 - [[Algorithme]]
 - [[Histoire de l'informatique]]
 - [[Calculateurs]]
+- [[Architecture d'un ordinateur]]
