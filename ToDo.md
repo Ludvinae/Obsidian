@@ -9,6 +9,7 @@
 ## Installation
 
 - [x] Serveur LAMP
+- [ ] Serveur SMTP
 
 
 ## Tutos
@@ -30,4 +31,5 @@
 
 ## Questions
 
-- [ ] 
+- [ ] VirtualBox: partage de fichier
+- [ ] VirtualBox: config carte réseau DHCP
