@@ -32,6 +32,13 @@ Virtualisation de stockage
 On utilise différents modes [[RAID]] pour gérer plusieurs disque durs. On retrouve ça dans les NAS (Network-Attached Storage) par exemple. On peut avoir des raids physiques ou virtuels.
 
 
+**Carte graphique**
+On peut la trouver intégrée au processeur dans certains portables, ou branchée sur le port PCI express dans un desktop. Actuellement, elles utilisent de la GDDR6, plus performante que la RAM, mais en moindre quantité.
+Utilisée pour les applications de traitement d'image ou de vidéo, ou bien pour le jeu. Elles se connectent à un écran essentiellement en HDMI ou en Display port, mais on a pu connaitre les prises VGA et DVI notamment.
+
+
+**Les périphériques**
+On peut brancher différents péripheriques sur les ports PCI: cartes sons , etc...
 
 
 
