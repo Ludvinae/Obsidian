@@ -1,3 +1,8 @@
+---
+tags:
+  - callback
+---
+
 [[Front-End]]
 
 Langage de programmation orienté web, JavaScript s'occupe de la *logique* et du *comportement*. Le standard du  langage est défini par ECMAScript.
@@ -142,6 +147,19 @@ const addition = (a, b) => a + b;
 console.log(addition(5, 3)); // 8
 const afficherNom = nom => console.log(nom);
 afficherNom("Charlie"); // Charlie
+```
+
+On peut aussi passer une fonction comme argument d'une autre fonction: c'est un **callback**. Le but est de n'afficher le callback qu'une fois que la première fonction ai fini d'exécuter. On passe la fonction que l'on veux appeler en second comme argument de la première *sans les parenthèses*, puis à la fin de la fonction on appelle le callback.
+
+```
+function hello(goodbye) {
+console.log("Hello!");
+goodbye();
+}
+
+function goodbye() {
+console.log("Goodbye!")
+}
 ```
 
 
