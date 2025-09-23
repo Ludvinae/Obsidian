@@ -24,3 +24,6 @@ On peut configurer sa VM avec plusieurs modes:
 ### Synthèse
 
 ![[virtualbox-synthese-modes-reseau.png]]
+
+
+myhostname: YorkDebian.mns.local
