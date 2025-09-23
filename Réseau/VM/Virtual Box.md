@@ -26,7 +26,3 @@ On peut configurer sa VM avec plusieurs modes:
 ![[virtualbox-synthese-modes-reseau.png]]
 
 
-myhostname: YorkDebian.mns.local
-
-log a distance depuis cmd.exe:
-	ssh user@127.0.0.1
