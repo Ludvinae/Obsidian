@@ -32,4 +32,4 @@
 ## Questions
 
 - [ ] VirtualBox: partage de fichier
-- [ ] VirtualBox: config carte réseau DHCP
+- [x] VirtualBox: config carte réseau DHCP
