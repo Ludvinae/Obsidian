@@ -26,7 +26,7 @@ present -> present perfect
 futur -> futur perfect
 
 
-Prétérit (past simple)
+### Prétérit (past simple)
 Utiliser le participe passé, jamais avec un indication de temps
 ex: I ate,  I played,  I found...
 Utilisation:
@@ -34,7 +34,7 @@ Utilisation:
 - datée / finie
 - énumération
 
-Present perfect
+### Present perfect
 have + participe passé
 Utilisation:
 - action qui commence dans le passé et continue dans le présent
