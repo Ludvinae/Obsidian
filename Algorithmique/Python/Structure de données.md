@@ -61,4 +61,3 @@ Méthodes associées aux dictionnaires:
 Arrange les données de manière ordonnée et immuable. On peut bouler dans une liste de tuples avec une boucle For. Dans ce cas, on associe chaque élément avec sa propre variable.
 
 coord = (x, y)
-
