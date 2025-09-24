@@ -50,6 +50,10 @@ On peut ignorer certains fichiers qui peuvent comprendre des informations sensib
 
 ### Convention de commit
 
+```ad-info
+**`git commit -m "message"`**
+```
+
 Comment formaliser les messages de commit:
 - Un commit = une idée
 - Jamais de commit "fourre-tout"
