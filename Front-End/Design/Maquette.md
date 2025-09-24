@@ -24,3 +24,6 @@ On peut créer une maquette avec Figma ou Canvas.
 - **Plan site** :
 - **Réseaux sociaux**: en pied-de-page si on est pas trop présent, si très présent en haut a droite ou en dessous du logo
 - **Identité visuelle**: 
+
+
+![[maquette_website.png]]
