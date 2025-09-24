@@ -31,8 +31,13 @@ Chaque élément dans un set est **unique**, et n'as pas de **position**. On uti
 	sac = {"element1", "element2"}
 
 Quelques méthodes pour modifier un set:
-- **sac.add("element3")**: ajouter l'élément au set si il n'existe pas déjà dedans.
-- **sac.remove("element")**: enlève l'élément du set.
+- **`sac.add("element3")`** : ajouter l'élément au set si il n'existe pas déjà dedans.
+- **`sac.remove("element")`** : enlève l'élément du set.
+
+De plus, les sets ont des méthodes qui permettent facilement de comparer deux sets différents entre eux:
+- **`set1.union(set2)`** : fusionne les deux sets sans créer de doublons
+- **`set1.interection(set2)`** : retrouve les données présentes à la fois dans les deux sets
+- **`set1.difference(set2)`** : retrouve les données de set1 qui ne sont pas présentes dans set2
 
 
 ## Dictionnaires
