@@ -2,7 +2,7 @@
 ## Notes
 
 - [ ] Commandes Git
-- [ ] Concepts Git (origine, remote, etc...)
+- [x] Concepts Git (origine, remote, etc...)
 - [x] DOM
 
 
