@@ -24,6 +24,7 @@ L’objectif principal est de **s’entraîner à collaborer avec Git** (branche
 | **Formater l’affichage**          | Présenter les informations d’un livre ou de la collection de manière claire et lisible.    | Facile             |
 | **Statistiques**                  | Calculer et afficher des informations sur la collection (ex : nombre de livres par genre). | Difficile          |
 | **Recommandations**               | Proposer des livres similaires à un livre donné (même genre, même éditeur, etc.).          | Difficile          |
+*Cette liste est uniquement à titre indicatif pour pouvoir commencer le projet, n'hésitez pas à proposer vos idées au groupe*
 
 ---
 
@@ -37,7 +38,7 @@ L’objectif principal est de **s’entraîner à collaborer avec Git** (branche
    - Les commits doivent être clairs et atomiques, en utilisant le format **`<Type> (<Format>) : <Message>`**
 
 3. **Intégration** :
-   - Les contributions sont fusionnées via des pull requests, avec une relecture par un autre membre du groupe.
+   - Les contributions sont fusionnées via des pull requests, n'hésitez pas à demander l'avis des autres en cas de doute.
 
 4. **Gestion des conflits** :
    - Les conflits de fusion sont résolus en équipe.
@@ -46,32 +47,4 @@ L’objectif principal est de **s’entraîner à collaborer avec Git** (branche
 
 ## **Exemple de Données**
 La collection est une liste de livres, chaque livre étant représenté par un ensemble d’informations (titre, éditeur, genre, nombre de pages, etc.).
-Le fichier CSV initial contient ces informations, et chaque feature doit permettre de les manipuler ou les afficher de manière utile.
-
----
-
-## **Pour les Autres Groupes**
-- **Fork du dépôt** : Les autres groupes peuvent fork le dépôt et travailler sur leur propre version.
-- **Collaboration** : Les groupes peuvent s’inspirer mutuellement, ou même contribuer au dépôt original via des pull requests.
-
----
-
-## **Questions pour le Groupe**
-- Comment gérer les livres qui n’ont pas de nombre de pages ?
-- Quel format d’affichage serait le plus utile pour visualiser un livre ou la collection ?
-- Faut-il ajouter d’autres informations aux livres (ex : note, résumé) ?
-
----
-**Prochaine étape** :
-Ce document est une base de discussion. Le groupe peut l’adapter, ajouter ou supprimer des features, et définir ensemble les règles de design.
-
-Lire un fichier CSV (livres fantasy)
-Chaque livre est rentré dans un dictionnaire, qu'on ajoute a une liste de livres
-
-- Créer un dictionnaire de référence, associant chaque index de la liste a un id de livre
-- filtrer les doublons
-- ajouter un livre a la liste
-- enlever un livre de la liste (et donc update du dictionnaire de référence)
-- trier les livres par nom, auteur, etc...
-- rechercher un morceau
-- Formater l'affichage d'un livre
+Le fichier CSV initial contient ces informations, le code présent dans main.py permet de manipuler ce fichier et d'en extraire les données, le groupe devrait interagir avec la liste de livres qui en est extraite uniquement.
