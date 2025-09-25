@@ -165,7 +165,7 @@ console.log("Goodbye!")
 
 ## Structures de données
 
-#### Arrays
+### Arrays
 
  Liste d'éléments qui peuvent être de type différents (mais ce n'est pas recommandé pour éviter les problèmes quand on traite ces données plus tard dans le programme)
   `let variable = ["element1", "element2", "element3"]`;
@@ -195,3 +195,25 @@ let element2 = "def"
 let element3 = "ghi"
 regroupe(element1, element2, element3)
 ```
+
+#### Array methods
+
+##### map()
+Accepte un callback en paramètre afin de parcourir une liste et appliquer cette fonction a toute la liste. map() va créer un nouvel array avec les données modifiées par la fonction.
+
+```
+const numbers = [1, 2, 3, 4, 5]
+const squares = numbers.map(squareNumber)
+
+def squareNumber(element) {
+	return Math.pow(element, 2)
+}
+```
+
+##### filter()
+Crée une nouvelle liste avec les éléments filtrés par le callback ajouté en paramètre de la méthode filter().
+
+```
+
+```
+
