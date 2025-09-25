@@ -31,5 +31,5 @@
 
 ## Questions
 
-- [ ] VirtualBox: partage de fichier
+- [x] VirtualBox: partage de fichier
 - [x] VirtualBox: config carte réseau DHCP
