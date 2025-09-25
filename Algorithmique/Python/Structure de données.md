@@ -54,6 +54,7 @@ Méthodes associées aux dictionnaires:
 -  **capitales.keys()**: renvoie une liste de toutes les clés du dictionnaire du dictionnaire
 - **capitales.values()**: renvoie une liste de toutes les valeurs du dictionnaire
 - **capitales.items()**:  renvoie une liste de tuples des paires clé - valeur
+- **capitales.get(key)**: renvoie la valeur associée a la clé
 
 
 ## Tuples

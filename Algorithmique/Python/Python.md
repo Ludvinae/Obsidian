@@ -11,7 +11,15 @@ On peut afficher du texte dans le terminal avec la commande **print**. On peut s
 	print("blabla" + var)
 	print(f"blabla {var}")
 
+Fonctions:
+On peut définir une valeur par défaut a un paramètre en la précisant dans sa définition. Ce paramètre deviens doncoptionnel.
 
+```
+def welcome(nom, age=10)
+	print(f"Bonjour {nom}, tu as {age} ans)
+welcome(Alice, 70) => "Bonjour Alice, tu as 70 ans"
+welcome(Paul) => "Bonjour Paul, tu as 10 ans"
+```
 
 
 
