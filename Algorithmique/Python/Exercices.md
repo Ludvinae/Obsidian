@@ -1,3 +1,8 @@
+[[Algorithme]]
+
+## Deviner le nombre
+
+```
 Algorithm GuessTheNumber  
 VARIABLES:  
   targetNumber: INT  
@@ -20,3 +25,8 @@ BEGIN
     END_IF  
   WHILE attempt <> targetNumber  
 END
+```
+
+## Spotify
+
+![[Spotify - Problématiques.pdf]]
