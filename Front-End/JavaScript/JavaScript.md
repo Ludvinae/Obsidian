@@ -163,6 +163,12 @@ console.log("Goodbye!")
 ```
 
 
+Il est également possible de passer une fonction *expression* comme argument d'une autre fonction, de la manière suivante:
+
+```
+setTimeOut(function(){
+	console.log("Hello !")}, 3000);
+```
 ## Structures de données
 
 ### Arrays
@@ -202,11 +208,11 @@ regroupe(element1, element2, element3)
 Accepte un callback en paramètre afin de parcourir une liste et appliquer cette fonction a toute la liste. map() va créer un nouvel array avec les données modifiées par la fonction.
 
 ```
-const numbers = [1, 2, 3, 4, 5]
-const squares = numbers.map(squareNumber)
+const numbers = [1, 2, 3, 4, 5];
+const squares = numbers.map(squareNumber);
 
 def squareNumber(element) {
-	return Math.pow(element, 2)
+	return Math.pow(element, 2);
 }
 ```
 
@@ -214,6 +220,25 @@ def squareNumber(element) {
 Crée une nouvelle liste avec les éléments filtrés par le callback ajouté en paramètre de la méthode filter().
 
 ```
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
+const evenNumbers = numbers.filter(isEven);
+
+def isEven(element) {
+	return element % 2 === 0;
+}
+```
+
+##### reduce()
+On passe un callback en paramètre qui va appeller une fonction qui va réduire la liste à un seul élément.
 
 ```
+const grades = [12, 14, 18, 9, 13, 16];
+const maxGrade = grades.reduce(getMax);
+
+def getMax(accumulator, element) {
+	return Math.max(accumulator, element);
+}
+```
+
+
 
