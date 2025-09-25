@@ -11,7 +11,7 @@ Git a été crée par Linus Torvald. pour le développement du noyau de Linux.
 
 Git est le protocole, alors que GitHub est la plateforme d'hébergement de dépôts Git. 
 
-### Termes importants
+### Termes importantsg
 
 - **Repository**: un dépôt où tout le code et l'historique des versions sont stockés.
 - **Commit**: un enregistrement de changements apportés au code dans le dépôt.
