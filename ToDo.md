@@ -33,4 +33,5 @@
 
 - [x] VirtualBox: partage de fichier
 - [x] VirtualBox: config carte réseau DHCP
-- [ ] Git: la commande `git branch -d "ma-branche"` efface t-elle la branche seulement en local?
+- [x] Git: la commande `git branch -d "ma-branche"` efface t-elle la branche seulement en local?
+- [ ] anglais: difference d'utilisation entre "by" et "per"
