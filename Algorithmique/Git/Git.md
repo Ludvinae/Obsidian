@@ -53,7 +53,9 @@ On peut ignorer certains fichiers qui peuvent comprendre des informations sensib
 ### Convention de commit
 
 ```ad-info
-**`git commit -m "message"`**
+**git commit -m "message"**
+ou
+git commit -am "message" (add automatic des fichiers déja trackés)
 ```
 
 Comment formaliser les messages de commit:

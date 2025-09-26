@@ -35,4 +35,5 @@
 - [x] VirtualBox: config carte réseau DHCP
 - [x] Git: la commande `git branch -d "ma-branche"` efface t-elle la branche seulement en local?
 - [ ] anglais: différence d'utilisation entre "by" et "per"
-- [ ] réseau: projet IOT?
+- [ ] réseau: projet IOT? (Internet of Things)
+- [ ] culture info: pas d'examen?
