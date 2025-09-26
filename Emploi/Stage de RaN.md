@@ -38,7 +38,7 @@ Plan du déroulement de la réalisation d'un site web pour une entreprise:
 
 - **Actions clés** :
     
-    - Développer une version statique ou semi-dynamique (HTML/CSS) avec la structure validée.
+    - Développer une version statique ou semi dynamique (HTML/CSS) avec la structure validée.
     - Intégrer un CMS simple (WordPress, Strapi) si le client doit gérer le contenu.
     - Prévoir des pages types : accueil, services, réalisations, contact, blog/news.
     - Tester la responsive (mobile, tablette, desktop).
