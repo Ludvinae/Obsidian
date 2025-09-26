@@ -84,7 +84,7 @@ Précisé le scope dans le message de commit est *optionnel*
 - auth
 - users
 - payment
-- la fonction sur laquelle on travaille
+- le fichier sur lequel on travaille
 
 **Message**:
 Le message doit être en anglais, clair, concis mais compréhensible.
