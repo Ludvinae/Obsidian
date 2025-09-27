@@ -38,3 +38,4 @@
 - [ ] réseau: projet IOT? (Internet of Things)
 - [ ] culture info: pas d'examen?
 - [ ] wordpress: les significations des couleurs sont-elles différentes selon les pays / cultures?
+- [ ] wordpress: devis en ligne?
