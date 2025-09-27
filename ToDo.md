@@ -37,3 +37,4 @@
 - [ ] anglais: différence d'utilisation entre "by" et "per"
 - [ ] réseau: projet IOT? (Internet of Things)
 - [ ] culture info: pas d'examen?
+- [ ] wordpress: les significations des couleurs sont-elles différentes selon les pays / cultures?
