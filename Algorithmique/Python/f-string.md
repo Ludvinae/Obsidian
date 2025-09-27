@@ -1,12 +1,12 @@
 [[Python]]
 
-f-strings allow to format a string in a convenient way:
+Les f-strings permettent de concaténer les chaînes de caractères avec des variables de manière plus concise:
 
 ```
 print(f"Du texte et {une variable}")
 ```
 
-Il y'a aussi des moyens de formater le string différement:
+Il y'a aussi des moyens de formater le string différemment:
 
 - **`{variable:_}`**: affiche un *entier* avec des séparateurs pour rendre les grands nombre plus lisibles (on peut aussi remplacer *_* par *,*)
 - **`{variable:.2f}`** : affiche un *float* avec deux chiffres après la virgule (arrondis au plus proche)
