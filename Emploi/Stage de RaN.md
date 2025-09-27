@@ -1,7 +1,7 @@
 [[Stages]]
 
 Plan du déroulement de la réalisation d'un site web pour une entreprise:
-### 1. **Analyse des besoins**
+### 1. **[[Analyse des besoins]]**
 
 **Objectif** : Comprendre les attentes, les cibles, les contraintes et les objectifs business du client.
 
