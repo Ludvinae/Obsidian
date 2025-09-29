@@ -12,8 +12,10 @@ Le WiFi fonctionne actuellement avec la norme 11ax, avec une fréquence de 2.4 G
 La norme à été étendue pour pouvoir supporter jusqu'à 6GHz.
 
 ### Ethernet & Bluetooth
-Ce sont les autre
+Ce sont les autres normes qui permettent de connecter les appareils électroniques.
+Ethernet pour les branchements filaires de réseau, et Bluetooth pour les connections de plus petits appareils électroniques.
 
 
 ### Recyclage des DEEE (déchets d'Equipement Electronique et Electrique)
 En *aout 2005*, l'UE a imposé au producteurs d'équipement électriques et électroniques de récupérer et recycler les déchets des anciens appareils.
+

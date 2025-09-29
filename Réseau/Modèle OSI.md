@@ -16,6 +16,15 @@ Le modèle est essentiellement une architecture en couches définies et délimit
 
 ![[OSI_Model_.png]]
 
-Les trois couches inférieures sont plutôt orientées communication et sont souvent fournies par un [système d'exploitation](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation "Système d'exploitation") et par le matériel.
+Les trois couches inférieures sont plutôt orientées communication et sont souvent fournies par un [système d'exploitation](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation "Système d'exploitation") et par le matériel. C'est le domaine des techniciens réseau.
 
-Les quatre couches supérieures sont plutôt orientées [application](https://fr.wikipedia.org/wiki/Application_\(informatique\) "Application (informatique)") et plutôt réalisées par des bibliothèques ou un programme spécifique.
+Les quatre couches supérieures sont plutôt orientées [application](https://fr.wikipedia.org/wiki/Application_\(informatique\) "Application (informatique)") et plutôt réalisées par des bibliothèques ou un programme spécifique. C'est le domaine des développeurs.
+
+On  transmet les informations dans la **couche physique** grâce a trois supports: 
+- Cable (électricité)
+- Fibre optique (lumière)
+- Sans-fil (ondes électromagnétique)
+
+## Modèle TCP/IP
+
+Les trois couches supérieurs sont regroupées dans une couche Application. Transport et Réseau ont leur propres couches, et Liaison et Physique sont regroupées. Toutefois, plus récemment, on a tendance a séparer les couches Liaisons et Physiques, car elles dépendent de différents corps de métier.
