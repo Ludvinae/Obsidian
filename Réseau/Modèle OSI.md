@@ -39,3 +39,7 @@ L'appareil qui permet de connecter via la couche Physique est le **Hub**. Tous l
 Il a été remplacé par le **switch** qui évolue via la couche Liaison, qui peut envoyer le flux seulement au destinataire légitime.
 Le **routeur** gère les communications sur la couche Réseau. Il permet de router les informations d'un réseau à l'autre.
 Le **firewall** gère l'ouverture et la fermeture des ports sur la couche Transport. Les firewall NG (nouvelle génération) accède aux couches supérieures, lui permettant de vérifier le contenu des paquets. Cela demande plus de puissance afin de  filtrer un large flux de données.
+
+#### Cisco Packet Tracer
+
+Permet de simuler un réseau complet Cisco.
