@@ -1,6 +1,6 @@
 [[Réseau]]
 
-Le **modèle OSI** ( Open Systems Interconnection ) est une [norme](https://fr.wikipedia.org/wiki/Norme_et_standard_techniques "Norme et standard techniques") de communication de tous les systèmes informatiques en réseau. L'objectif de cette norme est de spécifier un cadre général pour la création de normes ultérieures cohérentes. Le modèle lui-même ne définit pas de service particulier ni de protocole.
+Le **modèle OSI** ( Open Systems Interconnection ) est une norme de communication de tous les systèmes informatiques en réseau. L'objectif de cette norme est de spécifier un cadre général pour la création de normes ultérieures cohérentes. Le modèle lui-même ne définit pas de service particulier ni de protocole.
 
 ### Concept
 
