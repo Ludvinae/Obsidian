@@ -40,3 +40,4 @@
 - [ ] wordpress: les significations des couleurs sont-elles différentes selon les pays / cultures?
 - [ ] wordpress: devis en ligne?
 - [ ] TRE: analyse des besoins?
+- [ ] Algo: ordre des fonctions pour s'y retrouver
