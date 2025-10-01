@@ -7,6 +7,7 @@ On essaye généralement de positionner les sélecteurs CSS du plus générique 
 **block** -> prends tout l'espace horizontal disponible
 
 **Super propriété**: propriété qui regroupe plusieurs autres propriétés.
+
 ## Sélecteurs
 
 Un **parent** est une balise qui précède la balise dans le DOM; lorsque l'on parle de la balise qui précède directement on parle de **parent direct**.
