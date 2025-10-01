@@ -8,6 +8,10 @@ tags:
 Langage de programmation orienté web, JavaScript s'occupe de la *logique* et du *comportement*. Le standard du  langage est défini par ECMAScript.
 On peut ajouter du Javascript directement dans le html en l'insérant directement entre des balises <script></script>, ou bien lier un fichier Javascript externe en utilisant l'attribut src="fichier.js" dans la balise script. Dans ce cas, il est conseillé de positionner la balise tout en bas du body.
 
+```ad-important
+On place la balise script dans le head, sans oublier l'attribut "defer" pour qu'il s'éxecute après le chargement du DOM.
+```
+
 **Types de variables**:
 - *var*: variable globale (A éviter)
 - *let*: variable locale

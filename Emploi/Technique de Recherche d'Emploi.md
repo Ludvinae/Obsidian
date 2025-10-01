@@ -11,11 +11,7 @@ Soft skills: compétences humaines comportementales, savoir être.
 Pour parler d'une compétence, on utilise la méthode CAR: Contexte - Action - Résultat.
 
 ### Portefeuille de compétences:
-#### Assurer la qualité de la production
 
+![[Classeur.xlsx]]
 
-#### Gérer un planning
-
-
-#### Maintenir la motivation dans un groupe
-Niveau: 2
+![[TRE VF sept 25. sans ATS 2. RAN2. 01.10.25.pdf]]

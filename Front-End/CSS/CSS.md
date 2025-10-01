@@ -32,3 +32,14 @@ background-colod: grey;
 ```
 (on utilise `odd` pour les lignes impaires)
 
+- Sélectionner le premier sibling qui suit une balise:
+```
+h2+p {
+}
+```
+
+- Exclure un élément de la sélection:
+```
+p:not(.intro, h2+p)
+```
+
