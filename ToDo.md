@@ -21,6 +21,7 @@
 ## Exercices
 
 - [ ] Caisse enregistreuse ( JS )
+- [ ] Refaire l'interface avec CustomTKinter (et mettre l'essentiel dans sa propre frame)
 
 
 ## Pratique
