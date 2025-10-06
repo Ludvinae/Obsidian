@@ -13,3 +13,6 @@ C : numéro de réseau sur 3 octets ; premier octet entre 192 et 223, 1 octet po
 Les IP commençant par 192 sont réservés pour le local. 
 
 Numéro de réseau 127 : réservé pour sa propre machine. 
+
+
+ip / 24 -> notation CIDR pour identifier le masque de sous-réseau

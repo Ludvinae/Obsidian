@@ -11,4 +11,5 @@ On est passé depuis à l’IP v6, qui intègre une rétro-comptabilité avec l�
 
 
 -> CMD -> ipconfig : afficher les cartes réseaux du PC avec les adresses IP. 
-ip a pour linux
+ip a pour linux, et ipconfig -all pour afficher tous les details.
+
