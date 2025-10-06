@@ -21,7 +21,7 @@
 ## Exercices
 
 - [ ] Caisse enregistreuse ( JS )
-- [ ] Refaire l'interface avec CustomTKinter (et mettre l'essentiel dans sa propre frame) OU TTKBootstrap
+- [x] Refaire l'interface avec CustomTKinter (et mettre l'essentiel dans sa propre frame) OU TTKBootstrap
 
 
 ## Pratique
