@@ -82,3 +82,6 @@ Plan du déroulement de la réalisation d'un site web pour une entreprise:
 **Contenu** : Anticipez les délais de fourniture des textes et images par le client (souvent un frein).
 **Campagne de lancement** : Prévoir de communiquer sur les réseaux sociaux par exemple le nouveau site ainsi que le changement éventuel d'adresse mail professionnelle.
 
+
+-> gestion des commandes / matériel
+-> devis
