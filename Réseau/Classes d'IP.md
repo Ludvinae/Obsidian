@@ -24,3 +24,5 @@ Calcul binaire:
 192 en binaire : 1100 0000 car 128 + 64 (les deux premiers chiffres de l'octet)
 
 VLSM : masque de sous réseau a longueur variable
+
+![[bande_adresses_IP.png]]
