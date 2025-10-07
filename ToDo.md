@@ -2,6 +2,7 @@
 ## Notes
 
 - [ ] Commandes Git
+- [ ] Récapitulatif cours Culture info
 - [x] Concepts Git (origine, remote, etc...)
 - [x] DOM
 
@@ -40,6 +41,6 @@
 - [x] culture info: pas d'examen?
 - [ ] wordpress: les significations des couleurs sont-elles différentes selon les pays / cultures?
 - [ ] wordpress: devis en ligne?
-- [ ] TRE: analyse des besoins?
+- [ ] Bilan: analyse des besoins?
 - [ ] TRE: CV sur une ou deux pages? (combien de temps un chargé de recrutement passe t-il a lire un CV?)
 - [ ] Algo: ordre des fonctions pour s'y retrouver
