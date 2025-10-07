@@ -2,7 +2,7 @@
 
 Le premier calculateur **mécanique** est le boulier chinois. On a aussi retrouvé la [machine d'Anticythere](https://fr.wikipedia.org/wiki/Machine_d%27Anticyth%C3%A8re) qui permettait de calculer le mouvement des planètes entre -300 et 0.
 Plus récemment la machine de [Shickard](https://fr.wikipedia.org/wiki/Wilhelm_Schickard) puis la Pascaline permette de calculer mécaniquement. 
-Charles Babbage écrivit des plans pour une machine programmable. Il ne put fabriquer la machine par manque de moyen, mais plus tard des ingénieurs on construit la machine selon ses plans et elle fonctionnait. Il travailla aussi Ava Lovelace.
+Charles Babbage écrivit des plans pour une machine programmable. Il ne put fabriquer la machine par manque de moyen, mais plus tard des ingénieurs on construit la machine selon ses plans et elle fonctionnait. Il travailla aussi avec Ava Lovelace, considérée comme la première programmeuse de l'histoire.
 
 Le premier calculateur **électromécanique**, Zuse 3,  a été conçu par [Konrad Zuse](https://fr.wikipedia.org/wiki/Konrad_Zuse) en 1941 à base de relais. 
 Arthur Scherbius créa [Enigma](https://fr.wikipedia.org/wiki/Enigma_(machine)), la machine qui servit aux allemands pour  chiffrer (crypter) les messages afin de sécuriser les transactions bancaires. Puis pendant la seconde guerre mondiale, Alan Turing mis au point une machine pour déchiffrer les messages codés grâce a Enigma: la "bombe cryptologique". 
