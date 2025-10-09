@@ -1,4 +1,14 @@
 
+## Projet
+### Refactor decan logic:
+- [ ] liste des dates, enumerate pour récupérer l'index et calculer signe / décan
+- [ ] élément en fonction du signe
+- [ ] renvoie un dictionnaire
+### Numérologie
+- [ ] 
+### BeeWare
+- [ ] 
+
 ## Notes
 
 - [ ] Commandes Git
@@ -16,7 +26,8 @@
 ## Tutos
 
 - [ ] JavaScript
-- [ ] PHP
+- [ ] BeeWare
+
 
 
 ## Exercices
